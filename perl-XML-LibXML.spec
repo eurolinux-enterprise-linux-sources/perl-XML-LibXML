@@ -4,7 +4,7 @@ Name:           perl-XML-LibXML
 # it might not be needed anymore
 # this module is maintained, the other is not
 Version:        2.0018
-Release:        3%{?dist}
+Release:        5%{?dist}
 Epoch:          1
 Summary:        Perl interface to the libxml2 library
 Group:          Development/Libraries
@@ -108,6 +108,12 @@ fi
 %{_mandir}/man3/*.3*
 
 %changelog
+* Fri Jan 24 2014 Daniel Mach <dmach@redhat.com> - 1:2.0018-5
+- Mass rebuild 2014-01-24
+
+* Fri Dec 27 2013 Daniel Mach <dmach@redhat.com> - 1:2.0018-4
+- Mass rebuild 2013-12-27
+
 * Wed Jul 03 2013 Petr Pisar <ppisar@redhat.com> - 1:2.0018-3
 - Correct changelog entry
 
