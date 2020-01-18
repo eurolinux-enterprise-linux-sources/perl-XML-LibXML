@@ -1,3 +1,4 @@
-# ELS - Enterprise Linux/EuroLinux Sources - perl-XML-LibXML 
+# ELS - Enterprise Linux/EuroLinux Sources - perl-XML-LibXML
+ 
 ## Usage:
-  Checkout branch or tag.
+  Checkout branch or tag. Use `make sources` to recreate  SOURCE0 archive.
